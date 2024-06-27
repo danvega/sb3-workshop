@@ -133,8 +133,9 @@ It consists of an auto-refactoring engine that runs prepackaged, open-source ref
     - https://start.spring.io/
   - Have a native image built already in case we have issues
   - sdkman
-    - sdk env init
-    - sdk env
+    - `.sdkmanrc`
+      - `sdk env init`
+      - `sdk env`
   - Have Rewrite Project in recent projects list
 
 
