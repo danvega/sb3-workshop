@@ -129,7 +129,7 @@ It consists of an auto-refactoring engine that runs prepackaged, open-source ref
     - Delete container before workshop 
   - Browser Windows to be open
     - https://www.danvega.dev/
-    - https://github.com/danvega/ (workshop repo)
+    - https://github.com/danvega/sb3-workshop
     - https://start.spring.io/
   - Have a native image built already in case we have issues
   - sdkman
