@@ -53,10 +53,11 @@ This is the code behind my What's new in Spring Boot 3 Workshop.
 
 - Architecture
   - Package by layer
-    - Package by feature
-    - [Spring Modulith](https://spring.io/projects/spring-modulith)
-  - Post Package
-  - Post Record
+  - Package by feature
+  - [Spring Modulith](https://spring.io/projects/spring-modulith)
+  - Create a `Post` Package
+  - Create Post class
+  - Migrate to Post Record
     - Canonical Constructor
   - Validation
 
@@ -68,16 +69,16 @@ This is the code behind my What's new in Spring Boot 3 Workshop.
   - `schema.sql`/ `application.properties`
 - Jdbc Template
 - Jdbc Client
-- Spring Data JDBC
+- [Spring Data](https://spring.io/projects/spring-data) 
   - Convert to Spring Data JDBC
 
 ## Rest Clients
 
 - JsonPlaceholderService (https://jsonplaceholder.typicode.com/)
 - History of Clients
-- Rest Template
-- Rest Client
-- Http Interfaces
+  - Rest Template
+  - Rest Client
+  - Http Interfaces
 
 ## Runtime Efficiency
   
