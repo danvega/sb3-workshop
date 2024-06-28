@@ -51,7 +51,7 @@ This is the code behind my What's new in Spring Boot 3 Workshop.
 
 ## Building out the Model for our application
 
-- Architecture (learn shortcuts to create new folders)
+- Architecture
   - Package by layer
     - Package by feature
     - [Spring Modulith](https://spring.io/projects/spring-modulith)
